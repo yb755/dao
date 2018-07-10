@@ -1,7 +1,7 @@
 package com.vbgps.dao.mybatis;
 
 import com.vbgps.dao.MybatisApi;
-import com.vbgps.dao.pojo.MyBatisEntity;
+import com.vbgps.dao.entity.MyBatisEntity;
 
 public abstract class MyBatisBaseApi<T extends MyBatisEntity> implements MybatisApi<T> {
 

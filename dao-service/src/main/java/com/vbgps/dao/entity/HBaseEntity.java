@@ -1,4 +1,4 @@
-package com.vbgps.dao.pojo;
+package com.vbgps.dao.entity;
 
 public class HBaseEntity {
 

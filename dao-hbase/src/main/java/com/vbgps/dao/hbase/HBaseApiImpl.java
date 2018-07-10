@@ -26,8 +26,8 @@ import org.apache.hadoop.hbase.client.ResultScanner;
 import org.apache.hadoop.hbase.client.Scan;
 
 import com.vbgps.dao.HBaseApi;
-import com.vbgps.dao.pojo.HBaseColumn;
-import com.vbgps.dao.pojo.HBaseEntity;
+import com.vbgps.dao.annotations.HBaseColumn;
+import com.vbgps.dao.entity.HBaseEntity;
 import com.vbgps.dao.util.ObjectUtil;
 import com.vbgps.dao.util.ReflectionUtility;
 

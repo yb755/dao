@@ -1,4 +1,4 @@
-package com.vbgps.dao.pojo;
+package com.vbgps.dao.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

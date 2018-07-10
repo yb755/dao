@@ -3,7 +3,7 @@ package com.vbgps.dao;
 import java.io.IOException;
 import java.util.List;
 
-import com.vbgps.dao.pojo.HBaseEntity;
+import com.vbgps.dao.entity.HBaseEntity;
 
 public interface HBaseApi {
 
