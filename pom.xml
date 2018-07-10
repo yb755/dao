@@ -8,5 +8,6 @@
   	<module>dao-service</module>
   	<module>dao-hbase</module>
   	<module>dao-mybatis</module>
+  	<module>dao-sample</module>
   </modules>
 </project>
