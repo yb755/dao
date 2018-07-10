@@ -24,7 +24,6 @@ import org.apache.hadoop.hbase.client.Put;
 import org.apache.hadoop.hbase.client.Result;
 import org.apache.hadoop.hbase.client.ResultScanner;
 import org.apache.hadoop.hbase.client.Scan;
-import org.springframework.stereotype.Component;
 
 import com.vbgps.dao.HBaseApi;
 import com.vbgps.dao.pojo.HBaseColumn;
@@ -32,7 +31,6 @@ import com.vbgps.dao.pojo.HBaseEntity;
 import com.vbgps.dao.util.ObjectUtil;
 import com.vbgps.dao.util.ReflectionUtility;
 
-@Component
 public class HBaseApiImpl implements HBaseApi {
 
 	private HTable htable = null;
