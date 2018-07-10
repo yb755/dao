@@ -1,4 +1,4 @@
-package com.vbgps.dao.mybatis;
+package com.vbgps.dao.mybatis.plugin;
 
 import java.sql.Statement;
 import java.util.Properties;

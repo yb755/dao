@@ -1,4 +1,4 @@
-package com.vbgps.dao.mybatis;
+package com.vbgps.dao.mybatis.typehandler;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
